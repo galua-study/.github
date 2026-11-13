@@ -1,4 +1,4 @@
-# Galua Study
+# galua-study
 
 We create educational courses and interactive learning resources for developers.
 
